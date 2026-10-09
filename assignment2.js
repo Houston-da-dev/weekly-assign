@@ -1,6 +1,5 @@
 const prompt = require("prompt-sync")();
 
-
 //Grade Book
 // var grades = [];
 
